@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-quotation/static/css/main.001aa19f.css",
+    "main.js": "/react-quotation/static/js/main.bfd2e0ea.js",
+    "static/js/787.fe5f0542.chunk.js": "/react-quotation/static/js/787.fe5f0542.chunk.js",
+    "static/media/Virtuous-Slab.otf": "/react-quotation/static/media/Virtuous-Slab.700afea4a6eed53a4600.otf",
+    "index.html": "/react-quotation/index.html",
+    "main.001aa19f.css.map": "/react-quotation/static/css/main.001aa19f.css.map",
+    "main.bfd2e0ea.js.map": "/react-quotation/static/js/main.bfd2e0ea.js.map",
+    "787.fe5f0542.chunk.js.map": "/react-quotation/static/js/787.fe5f0542.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.001aa19f.css",
+    "static/js/main.bfd2e0ea.js"
+  ]
+}
