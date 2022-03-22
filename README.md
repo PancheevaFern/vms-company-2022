@@ -16,6 +16,6 @@ The application can calcute the total of the quation , collect [Quotation] in Mo
 
 ### Source Code & Repository
 
-    Link to GitHub repository:
+    Link to GitHub repository: https://github.com/PancheevaFern/vms-company
 
 Pancheeva jantarasuriyakul 6213305
