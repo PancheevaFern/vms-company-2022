@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-quotation/static/css/main.001aa19f.css",
-    "main.js": "/react-quotation/static/js/main.07e006c2.js",
+    "main.css": "/react-quotation/static/css/main.de5a24b2.css",
+    "main.js": "/react-quotation/static/js/main.0dc51973.js",
     "static/js/787.fe5f0542.chunk.js": "/react-quotation/static/js/787.fe5f0542.chunk.js",
     "static/media/Virtuous-Slab.otf": "/react-quotation/static/media/Virtuous-Slab.700afea4a6eed53a4600.otf",
     "index.html": "/react-quotation/index.html",
-    "main.001aa19f.css.map": "/react-quotation/static/css/main.001aa19f.css.map",
-    "main.07e006c2.js.map": "/react-quotation/static/js/main.07e006c2.js.map",
+    "main.de5a24b2.css.map": "/react-quotation/static/css/main.de5a24b2.css.map",
+    "main.0dc51973.js.map": "/react-quotation/static/js/main.0dc51973.js.map",
     "787.fe5f0542.chunk.js.map": "/react-quotation/static/js/787.fe5f0542.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.001aa19f.css",
-    "static/js/main.07e006c2.js"
+    "static/css/main.de5a24b2.css",
+    "static/js/main.0dc51973.js"
   ]
 }
